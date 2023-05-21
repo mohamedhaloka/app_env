@@ -13,9 +13,6 @@ class IOSConfigHandler {
     final bool fileIsExists = _file!.existsSync();
 
     if (fileIsExists) return;
-
-    await _file!.create(recursive: true);
-    await _file!.writeAsString(iOSConfigFileContent);
   }
 
   Future<void> modify(String content) async {
