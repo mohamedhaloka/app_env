@@ -26,8 +26,5 @@ class IOSConfigHandler {
 }
 
 const iOSConfigFileContent = '''
-#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
-#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig"
-#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig"
-#include "Flutter/Generated.xcconfig"
+#include "Generated.xcconfig"
 ''';

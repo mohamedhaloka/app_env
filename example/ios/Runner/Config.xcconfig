@@ -1,0 +1,4 @@
+#include "Generated.xcconfig"
+
+BASE_URL=website.com
+GOOGLE_MAP_KEY=38274632743758234

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BASE_URL">https://websitee.com</string>
+    <string name="GOOGLE_MAP_KEY">8888343</string>
+    <string name="NEW_KEY">NEW_VALUE</string>
+</resources>
+
+
+
