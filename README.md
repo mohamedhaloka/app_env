@@ -1,6 +1,7 @@
-![](https://www.raed.net/img?id=254191)
+![](https://www7.0zz0.com/2023/07/13/22/729644482.jpg)
 # App Env
 With App env you can now easily share global variables between Flutter and mobile operating systems Android and iOS.
+
 ![](https://s11.gifyu.com/images/SWuTu.gif)
 ## _Supported platforms_
 - Android
