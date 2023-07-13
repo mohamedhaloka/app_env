@@ -1,6 +1,6 @@
 ![](https://www7.0zz0.com/2023/07/13/22/729644482.jpg)
 # App Env
-With App env you can now easily share global variables between Flutter and mobile operating systems Android and iOS.
+With App env you can now easily share global variables between Flutter and mobile Android and iOS code.
 
 ![](https://s11.gifyu.com/images/SWuTu.gif)
 ## _Supported platforms_
@@ -44,7 +44,7 @@ It's over.. that's it.
 At the present time, the package does not provide the ability to read the `.env` file, but there are many ways to read the file, either through
 
 - Use the Regex and write your own code to extract the key and the value.
-- Or, you can easily use another package that reads the `.env` file, such as flutter_dotenv.
+- Or, you can easily use another package that reads the `.env` file, such as [flutter_dotenv](https://pub.dev/packages/flutter_dotenv).
 ### _Android Usage_
 After executing the previous steps, go to the following path `android/app/src/main/res/values/` You will notice that there is a strings.xml file.
 

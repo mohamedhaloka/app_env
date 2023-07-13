@@ -1,6 +1,6 @@
 name: app_env
-description: App env package.
-version: 0.0.1+1
+description: With App env you can now easily share global variables between Flutter and mobile Android and iOS code.
+version: 0.0.5+2
 homepage: https://github.com/mohamedhaloka/app_env
 
 environment:
